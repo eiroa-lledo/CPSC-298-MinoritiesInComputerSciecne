@@ -13,5 +13,5 @@ It ia structures as a two-part seminar course. In part one, students learn about
 Files included:
 - Syllabus 
 - Instructions for final project 
-- Project proposals (note: some student's names have been redacted per their request)
+- Project proposals (note: students authorized the publication of these files, some student's names have been redacted per their request)
 
