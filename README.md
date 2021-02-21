@@ -13,8 +13,8 @@ It ia structures as a two-part seminar course. In part one, students learn about
 Files included:
 - Syllabus
 - Lectures
-  01 General History of C.S. (not focused on minorities, students created their own presentations for important minority historical figures)
-  02 Stats on diversity
-  03 current solutions aiming to bridge gaps in stats
+  - 01 General History of C.S. (not focused on minorities, students created their own presentations for important minority historical figures)
+  - 02 Stats on diversity
+  - 03 current solutions aiming to bridge gaps in stats
 - Instructions for final project
 - Project proposals (note: students authorized the publication of these files, some student's names have been redacted per their request)
