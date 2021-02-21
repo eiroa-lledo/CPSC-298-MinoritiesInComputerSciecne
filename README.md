@@ -1,5 +1,10 @@
 # CPSC-298-MinoritiesInComputerSciecne
-CPSC-298 Heroes of Computing: Minorities in Computer Science, Interterm 2021, Chapman University 
+CPSC-298 Heroes of Computing: Minorities in Computer Science
+
+Interterm 2021
+
+Chapman University 
+
 Taught by: Elia Eiroa Lledo
 
 This course allows students to study the amazing contributions of computer scientists from groups that have been traditionally underrepresented in engineering.
